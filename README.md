@@ -1,2 +1,6 @@
 # hello-world
-My first repository
+
+
+Hello all
+
+I'm Anthony, new to coding. Eager to learn more!
